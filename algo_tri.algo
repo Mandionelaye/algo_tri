@@ -4,7 +4,7 @@ VAR
 BEGIN
   p := n;
   n := m;
-  m := tmp;
+  m := p;
 END
 
 /* tri insertion  */
